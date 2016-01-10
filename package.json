@@ -1,0 +1,37 @@
+{
+  "name": "react-sandbox",
+  "version": "0.0.1",
+  "description": "react-sandbox",
+  "main": "index.html",
+  "homepage": "https://github.com/to4iki/react-sandbox",
+  "author": {
+    "name": "tsk takezawa",
+    "email": "tsk.take815@gmail.com",
+    "url": "https://github.com/to4iki"
+  },
+  "license": {
+    "type": "MIT",
+    "url": "http://to4iki.mit-license.org/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/to4iki/react-sandbox.git"
+  },
+  "scripts": {
+    "build": "gulp browserify",
+    "watch": "gulp"
+  },
+  "dependencies": {
+    "react": "^0.14.6",
+    "react-dom": "^0.14.6"
+  },
+  "devDependencies": {
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-react": "^6.3.13",
+    "babelify": "^7.2.0",
+    "browserify": "^13.0.0",
+    "gulp": "^3.9.0",
+    "gulp-webserver": "^0.9.1",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
