@@ -2,6 +2,7 @@
 
 import React from 'react'
 import ReactDOM from 'react-dom'
-import Component from './mini-flux-sample/Component'
+// import Component from './mini-flux-sample/Component'
+import MainComponent from './component/MainComponent'
 
-ReactDOM.render(<Component />, document.getElementById('component'));
+ReactDOM.render(<MainComponent />, document.getElementById('component'));

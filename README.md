@@ -23,7 +23,8 @@ $ npm run watch
 
 ## See also
 - [ma-tu/react-babel-gulp-browserify-tutorial at es6](https://github.com/ma-tu/react-babel-gulp-browserify-tutorial/tree/es6)
-- [10分で実装するFlux](http://azu.github.io/slide/react-meetup/flux.html)
+- [facebook/flux](https://github.com/facebook/flux/)
+- [azu/mini-flux](https://github.com/azu/mini-flux)
 
 ## Author
 
