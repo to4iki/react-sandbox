@@ -5,8 +5,8 @@ var source = require('vinyl-source-stream');
 var webserver = require('gulp-webserver');
 
 var config = {
-    watchFiles: './src/*.jsx',
-    entryFile: './src/App.jsx',
+    watchFiles: './src/*.js',
+    entryFile: './src/App.js',
     destDir: './dest/',
     destFile: 'App.js'
 };
